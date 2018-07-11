@@ -22,4 +22,4 @@ if people > trucks
   puts "Alright, let's just take the trucks."
 else
   puts "Fine, let's stay home then."
-end
+end 
